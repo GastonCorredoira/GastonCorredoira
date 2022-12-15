@@ -6,15 +6,15 @@ My name is Gaston Corredoira and I'm a Web Developer. I'm from Argentina and I a
 [![LinkedIn][3.2]][2].
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Smarty-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=C0E4E3)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=intellij-idea&logoColor=white&color=C0E4E3)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=python&logoColor=white&color=C0E4E3)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=javascript&logoColor=white&color=C0E4E3)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=C0E4E3)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=javascript&logoColor=white&color=C0E4E3)
+![](https://img.shields.io/badge/Code-Smarty-informational?style=flat&logo=javascript&logoColor=white&color=C0E4E3)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=javascript&logoColor=white&color=C0E4E3)
+![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=postgresql&logoColor=white&color=C0E4E3)
 
 ## &#x270d; Projects
 
