@@ -16,13 +16,27 @@ My name is Gaston Corredoira and I'm a Web Developer. I'm from Argentina and I a
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=C0E4E3)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=C0E4E3)
 
-## &#x270d; Projects
+## :computer: Projects
 
 Here are some of my projects:
 
 <!-- BLOG-POST-LIST:START -->
 - [Car Dealer (Pure HTML5, CSS3 and JavaScript, no frameworks)](https://github.com/GastonCorredoira/CarDealer)
 - [SpotyFake (Angular)](https://github.com/GastonCorredoira/SpotyFake)
+- [Discography (Bootstrap, PHP, MySQL, Smarty)](https://github.com/GastonCorredoira/SpotyFake)
+<!-- BLOG-POST-LIST:END -->
+
+
+## :construction: Ongoing project
+
+Now I'm making a To-Do app with an account system, so you can log in, put your to-do's in, log out, and your to-do list will all be kept in the system.
+
+Im using Bootstrap, PHP and MySQL to build this app :smile:
+
+If you want, you can see my progress:
+
+<!-- BLOG-POST-LIST:START -->
+- [ToDo App (Beta)](https://github.com/GastonCorredoira/ToDoApp)
 <!-- BLOG-POST-LIST:END -->
 
 
